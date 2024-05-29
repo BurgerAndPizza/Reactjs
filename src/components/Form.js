@@ -13,7 +13,7 @@ const Form = () => {
         setAllStudents([...allStudents, newStudent]);
     
         setName("");
-        setMobile("");
+        setMobile("");        
         setAddress("");
     };
 
